@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from "react-router-dom";
-
+import { FaSearch,FaUser,FaListUl } from "react-icons/fa";
 
 const Navbar = () => {
 
@@ -12,12 +12,12 @@ const Navbar = () => {
             <div className="logo-name">
                 <div className="outer">
                     <img src="https://www.thewasserstoff.com/images/wstf-logo.svg" alt="Logo" />
-                
+
                 </div>
                 {/* Name of Company  */}
                 <p>WASSERSTOFF</p>
             </div>
-            
+
             {/* Search option  */}
 
             <div className="search">
@@ -25,7 +25,7 @@ const Navbar = () => {
                     {/* search box  */}
                     <input type="search" name="search" id="find" />
                     <span>
-                        <i className="fa-solid fa-magnifying-glass"></i>
+                        <FaSearch />
                     </span>
                 </div>
                 {/* unordered list  */}
@@ -44,9 +44,15 @@ const Navbar = () => {
                     </li>
                 </ul>
             </div>
-            <span></span>
-            <span></span>
-            <span></span>
+            {/* users profile  */}
+            <div className="Icons">
+                <span>
+                    <FaUser />
+                </span>
+                <span>
+                    <FaListUl />
+                </span>
+            </div>
         </div>
     );
 }
