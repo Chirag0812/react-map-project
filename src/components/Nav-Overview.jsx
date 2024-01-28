@@ -5,10 +5,11 @@ import MainComp from './MainComponent'
 const Overview = () => {
   return (
     <div>
-      <AxisChart/>
-      <MainComp/>
+      {/* Overview chart shown here */}
+        <MainComp/>
+       <AxisChart />
     </div>
-    
+
   )
 }
 
