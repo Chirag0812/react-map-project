@@ -1,24 +1,18 @@
-<h1>Wassertoff Frontend Assignment</h1>
-1.)Technology stack/libraries used
-reactjs
-apexchart.js
-
+<h1>Wasserstoff Frontend Assignment</h1>
+<br>
+<div>1.Technology stack/libraries used</div> 
+<p>reactjs,apexchart.js,@ant-design/plots and various libraries</p> 
+<br>
 <h1>public hosted</h1>
-<a href="https://65b69da04d919a8b76bf5302--inquisitive-genie-a13ef4.netlify.app/">link to project</a>
-approach
-for building this dashboard project i have first draw a rough diagram. and list out what number of component are there that and be reuse across the build, decide what ui and chart libraries to use.
+### ` <a href="https://65b69da04d919a8b76bf5302--inquisitive-genie-a13ef4.netlify.app/">link to project</a> `
+
+<h1>approach</h1>
+For building this dashboard project i first draw a rough diagram and list out the number of component which are there and are reused across the build,than decide what ui and chart libraries to use.
 This project was bootstrapped with Create React App.
-
-Available Scripts
-In the project directory, you can run:
-
-npm start
-Runs the app in the development mode.
-Open http://localhost:3000 to view it in your browser.
-
-The page will reload when you make changes.
-You may also see any lint errors in the console.
-
+<br>
+<h1>Steps to run project</h1>
+Download zip file and extract all files in a folder than run terminal in wasserstoff folder.Than hit the commands below.
+### `npm install `
 ### `npm start `
 
 Runs the app in the development mode.\
