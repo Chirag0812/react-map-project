@@ -4,7 +4,7 @@
 <p>reactjs,apexchart.js,@ant-design/plots and various libraries</p> 
 <br>
 <h1>public hosted</h1>
-### ` <a href="https://65b69da04d919a8b76bf5302--inquisitive-genie-a13ef4.netlify.app/">link to project</a> `
+###  <a href="https://myworld-map-project.netlify.app/">link to project</a> 
 
 <h1>approach</h1>
 For building this dashboard project i first draw a rough diagram and list out the number of component which are there and are reused across the build,than decide what ui and chart libraries to use.
