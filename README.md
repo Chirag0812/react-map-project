@@ -1,4 +1,4 @@
-<h1>Wasserstoff Frontend Assignment</h1>
+<h1>Frontend Project</h1>
 <br>
 <div>1.Technology stack/libraries used</div> 
 <p>reactjs,apexchart.js,@ant-design/plots and various libraries</p> 
